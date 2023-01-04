@@ -17,6 +17,7 @@ void pairDemo(){
     pair<int,int> arr[]={{1,2},{2,5},{5,1}};
 
     cout<<arr[1].second<<"\n"; // 5
+    
 }
 
 int main(){
